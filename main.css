@@ -1,5 +1,6 @@
 * {
     font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
 }
     .header__user {
         display: none;
@@ -31,6 +32,7 @@
         width: 100%;
         outline: none;
         padding: 2% 10% 0;
+        border-style: none;
     }
 
     .header__input__img {
